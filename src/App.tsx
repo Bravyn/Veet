@@ -21,7 +21,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
+          This is a small react app to help me learn typscript and Tauri
         </p>
       </div>
       <p className="read-the-docs">
